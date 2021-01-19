@@ -1,5 +1,5 @@
 # Browser Video File Speed Controls
-A bookmarklet that adds a barebones interface for changing a video file's speed.  
+A bookmarklet that adds a barebones interface for changing a video file's playback rate.  
 Made for Chrome's native video player.
 
 ### Bookmark this and click the bookmark while on a video player:
